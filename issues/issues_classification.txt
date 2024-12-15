@@ -1,0 +1,10 @@
+issue  1	timestamp  not  present
+issue  1b	time range not present
+issue 2	time hallucination  (e.g.,  10.61)
+issue  3r	regular time  division (at minute  2... At minute   4… At  minute 6…)
+issue 3f	fragmentation  of intervals  and  repetitions (instead  from  minute  10  to  minute 15 eventX  -> minute  10  eventX,  minute 11 eventX,  minute 12 eventX,  etc)
+issue 4	not following  the  requested template
+issue  5	unnecessary mention to  camera  movements ("the  camera turns  right...")
+	
+	
+templated-enriched 	prompts  with explicit mention to the structure of the output
