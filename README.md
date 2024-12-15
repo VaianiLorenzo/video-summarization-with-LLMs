@@ -21,7 +21,12 @@ In this work, we explored the performance of 4 different V-LLM.
 | VTimeLLM | [GitHub](https://github.com/huangb23/VTimeLLM) | [Paper](https://arxiv.org/abs/2311.18445) |
 
 ## Datasets
-
+The videos involved in our V-LLMs are sampled from the following datasets:
+- TVSum
+- SumMe
+- ActivityNet
+- MSVD
+- Epic-Kitchens
 
 ## Repository Structure
 
@@ -30,9 +35,12 @@ This repository contains the following 3 main folders:
 #### Directory `LLM_inference`
 This folder contain the scripts used to run each V-LLM inference. Each script must replace the main inference script in the official repository of the corresponding V-LLM. All teh dependencies are the same as the original V-LLM model.  
 
-#### Directory `mitigation techniques`
-Contiene i dataset utilizzati per l'addestramento.
+#### Directory `mitigation_techniques`
+This folder contains the scripts to extract useful information and to create the sentences that can be injected in the V-LLM prompt to mitigate the final summary generation. In particular:
+- Directory `scene`: contains the script used to divide each video in separate scene, saving corresponding start and end timestamps. 
+- Directory `object`: contains the script to extract relevan object from the video usig the YOLO architecture.
+- Directory `scene`: contains the scripts to detect relevant actions witih the original video, using the mmmaction2 model.
 
-#### Directory `models`
-Contiene i modelli pre-addestrati o salvati.
+#### Directory `annotations`
+Contains the new event-based annotations used to evaluate V-LLMs. Our annotation will be released upon paper acceptance. 
 
