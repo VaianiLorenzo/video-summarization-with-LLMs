@@ -1,0 +1,21 @@
+Dataset Name	AnnotatorID	VideoID	Plain Summary	Event 1	Start Timestamp Event 1	End Timestamp Event 1	Location Event 1	Event 2	Start Timestamp Event 2	End Timestamp Event 2	Location Event 2	Event 3	Start Timestamp Event 3	End Timestamp Event 3	Location Event 3	Event 4	Start Timestamp Event 4	End Timestamp Event 4	Location Event 4	Event 5	Start Timestamp Event 5	End Timestamp Event 5	Location Event 5	Event 6	Start Timestamp Event 6	End Timestamp Event 6	Location Event 6	Event 7	Start Timestamp Event 7	End Timestamp Event 7	Location Event 7	Event 8	Start Timestamp Event 8	End Timestamp Event 8	Location Event 8	Event 9	Start Timestamp Event 9	End Timestamp Event 9	Location Event 9	Event 10	Start Timestamp Event 10	End Timestamp Event 10	Location Event 10	Event 11	Start Timestamp Event 11	End Timestamp Event 11	Location Event 11	Event 12	Start Timestamp Event 12	End Timestamp Event 12	Location Event 12	Additional comments
+MSVD	2	_o1UXSxTjfo_68_80	In the video, some people are shown making pretzels from the strand of dough in time lapse	people making pretzels																																																
+MSVD	2	XNV7hKVu-Xg_40_47	The video shows some cowboys riding horses.	There are some cowboys who ride horses	00:00:00	00:00:05	Outdoors on an expanse	There are two men carrying a carriage	00:00:05	00:00:07	Outdoors on an expanse																																									
+MSVD	2	x1i0UOssll8_141_151	Video shows a shark eating a fish that was being caught by a fishing boat	A shark eats a fish as it was being pulled by a fishing rod																																																
+MSVD	2	WAa4-cctmDk_55_70	The video shows an elderly woman kneading dough with a rolling pin while talking																																																	
+MSVD	2	UXs3eq68ZjE_49_54	The video shows a man pouring tomato puree into a pot and stirring it																																																	
+MSVD	2	urXDqw3S34I_12_17	The video shows a convertible car running on a straight road																																																	
+MSVD	2	UJKythlXAIY_17_21	The video shows a 4-piece band playing different instruments in nature																																																	
+MSVD	2	u9prcUCHlqM_73_80	The video shows a man carrying photographer's equipment in the wilderness while talking to the cameraman																																																	
+MSVD	2	swKrHEeOj9c_4_8	Video shows a white cat meowing at a wall 																																																	
+MSVD	2	pGsU4FekJQM_10_18	Video shows a dog lying on its stomach on the floor																																																	
+MSVD	2	lfGlDg47How_93_98	Video shows a man in the kitchen putting a stick of butter into a bowl																																																	
+MSVD	2	LF51fban_x4_300_325	Video shows a waiter making the bed in a hotel room																																																	
+MSVD	2	ITNh8tWZPOA_5_25	Video shows a boy playing guitar on the bed																																																	
+MSVD	2	Hd-NeIhbYGc_43_48	Video shows a girl riding a horse in a field																																																	
+MSVD	2	H1Bok7Dg7g8_21_26	Video shows a puppet answering a toy phone																																																	
+MSVD	2	bXsKw3TOQXs_30_55	The video shows one person's hands folding a small square of green paper																																																	
+MSVD	2	b-d-CxHaKGU_10_30	Video shows a teacher explaining two- and three-dimensional Cartesian axes at a whiteboard 	A teacher shows two-dimensional axes on a whiteboard	00:00:00	00:00:13	Inside a classroom	A teacher shows three-dimensional axes on a whiteboard	00:00:13	00:00:20	Inside a classroom																																									
+MSVD	2	16iNk1hLJt4_37_40	Video shows some athletes at the starting line preparing for the shot of the start of the race																																																	
+MSVD	2	4lXdVS697DQ_10_25	The video shows two boys sailing on a small sailboat 																																																	
+MSVD	2	_o1UXSxTjfo_68_80	The video shows a vendor in the middle of the street with many customers around selling his products	The seller hands an bag to a lady	00:00:00	00:00:04	On a sidewalk	The seller says something	00:00:04	00:00:10	On a sidewalk																																									
