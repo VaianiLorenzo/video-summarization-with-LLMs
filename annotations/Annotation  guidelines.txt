@@ -1,0 +1,93 @@
+Video Annotation Guidelines
+
+Thank you for your contribution to the video annotation!
+Please follow these guidelines carefully when annotating the videos to ensure consistency and accuracy in the annotation process.
+You have been provided with the following materials for annotation:
+a) A set of videos
+b) An Excel Document. Each row in the Excel document corresponds to one video and is identified by a unique identifier (the name of the video).
+You are required to annotate each video, writing the annotation in the Excel document corresponding to each video. 
+Your annotations will include a plain summary, identification of salient events, and timestamp and location for each event. In the following sections, you will find a detailed definition for these types of annotations.
+
+At these links, you can find examples of annotations: link1, link2
+
+1. Plain Summary
+Objective: Provide a brief, comprehensive overview of the video content in a concise manner.
+Instructions
+●	Objective: Provide a brief, comprehensive overview of the video content in a concise manner.
+
+●	Watch the Entire Video: Begin by watching the entire video from start to finish to understand its full context.
+
+●	Summarize Key Points: Write a brief summary of the video's content.
+o	Introduce the main subject or theme of the video.
+o	Mention any key participants or entities involved.
+o	Highlight the general structure of the video.
+●	Keep It Concise: The summary should be between 2-3 sentences, capturing the essence without going into excessive detail.
+●	Avoid Personal Opinions: Focus on what is happening in the video rather than providing personal interpretations or opinions.
+
+●	Annotate: Write the summary in the “Plain summary” cell.
+
+Example: "The video shows a cooking demonstration where a chef prepares a three-course meal. It starts with an introduction of the recipes, followed by the preparation of appetizers, main courses, and desserts.”
+
+2. Identifying Salient Events
+
+Objective: Highlight and document salient (significant) events that occur within the video. 
+What is an event? An event is something happening at a given time and in a given location. It has the following characteristics:
+-	It happens at a particular time or over a period.
+-	It occurs within a specific setting and location.
+-	It is significant or noteworthy to the observer.
+-	It can be identified and distinguished from other happenings.
+Instructions:
+●	Identify Key Occurrences: As you watch the video, pay attention to important actions, interactions, or changes in the scene.
+●	Focus on Impact: Choose events that have an impact or relevance to the video's context.
+●	Be Specific: Clearly distinguish between different events and avoid including trivial or irrelevant details. 
+●	Annotate: Describe each event in order of appearance in the “Event #” cell, e.g., describe the first event in the cell “Event 1”, the second in the cell “Event 2”.
+Criteria for Salient Events:
+●	Actions, occurrences, or moments that are important to the video's context.
+●	Changes in location or setting such as a change in shot
+●	Significant interactions between individuals
+●	Any unusual or unexpected occurrences
+
+Examples:
+●	A goal was scored in a soccer match.
+●	A speaker begins their presentation in a conference video.
+
+3. Specifying Timestamp and Location for Each Event
+Objective: Provide precise temporal and spatial details for each identified event.
+Instructions:
+●	Take note.
+o	Timestamp: Note the time when each event begins and ends. 
+o	 Location: Describe the specific location or scene where the event takes place. 
+●	Format:
+o	Event Starting Timestamp: Use the format [HH:MM:SS] to indicate the exact starting time of the event.
+o	Event Starting Timestamp: Use the format [HH:MM:SS] to indicate the exact end time of the event.
+o	Location: Describe the location or scene where the event occurs. This could be a physical location (e.g., "auditorium stage", "conference room") or a particular area within the video frame (e.g., "center of the field")
+●	Annotate: Fill the cells  “Start Timestamp Event #”, “End Timestamp Event #” and “Location Event #” for each event, e.g., Start Timestamp Event 1”, “End Timestamp Event 1” and “Location Event 1” describe the start time, end time and location of the first event.
+
+Examples:
+●	Event: A goal scored by Player X
+o	Start Timestamp: [00:15:23]
+o	End Timestamp: [00:15:55]
+o	Location: Center of the soccer field, near the penalty area.
+●	Event: A speaker presents some slides
+o	Start Timestamp: [00:02:10]
+o	End Timestamp: [00:04:30]
+o	Location: Auditorium stage, behind the podium.
+
+Here’s a FAQ section to complement your annotation guidelines, addressing possible questions and clarifying procedures for annotating videos.
+________________________________________
+FAQ
+1. How many events should I annotate?
+The number of events to annotate depends on the length and content of the video. For most videos, you should identify and annotate between 1 to 10 key events. 
+2. What if the video contains more events than the number of predefined ones in the annotation document (excel file)?
+If the video contains more than the predefined significant/salient events (10), please add additional columns to your annotation table to accommodate these extra events. 
+
+3. What if I’m unsure whether an occurrence qualifies as an event?
+If you are uncertain whether an occurrence should be classified as an event, consider the following criteria:
+-	Significance: Does the occurrence have relevance to the video's main content?
+-	Context: Is the occurrence part of a meaningful sequence or key moment?
+4. How should I handle overlapping events?
+If events overlap, make separate entries for each event with their respective timestamps.
+5. How detailed should the event descriptions be?
+The description of events should be clear and concise. Focus on capturing the essential aspects of each event. Use straightforward language to describe the event, including what occurred, and who was involved.
+6. Can I add additional information beyond the required columns?
+Yes, if you find it helpful, you can include additional information in the “Additional notes” field.
