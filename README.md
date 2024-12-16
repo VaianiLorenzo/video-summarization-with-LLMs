@@ -42,5 +42,5 @@ This folder contains the scripts to extract useful information and to create the
 - Directory `scene`: contains the scripts to detect relevant actions witih the original video, using the mmmaction2 model.
 
 #### Directory `annotations`
-Contains the new event-based annotations used to evaluate VLLMs. Our annotation will be released upon paper acceptance. 
+Contains the new event-based annotations used to evaluate VLLMs. There are three different annotations for each dataset. 
 
